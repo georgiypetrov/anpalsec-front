@@ -1,5 +1,7 @@
 # WalletConnect Example Dapp
 
+## READ ALL CODE in src/App.tsx
+
 ## Develop
 
 ```bash
